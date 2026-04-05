@@ -1,0 +1,15 @@
+metric,value
+T1_n,52.0
+T2_n,52.0
+T3_n,52.0
+T1_E_j_mean,0.027
+T2_E_j_mean,0.183
+T3_E_j_mean,0.517
+T1_delta_bfs_mean,3.656
+T2_delta_bfs_mean,5.978
+T3_delta_bfs_mean,6.681
+T1_delta_bfs_std,15.853
+T3_delta_bfs_std,17.137
+welch_t_stat,-0.9343
+welch_p,0.3523
+cohen_d_T1_T3,0.183

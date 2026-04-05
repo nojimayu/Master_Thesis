@@ -1,0 +1,7 @@
+metric,value
+pearson_r_sij_Ej,0.9847
+r2_sij_Ej,0.9697
+p_sij_Ej,0.0
+OLS_slope,1.4535
+OLS_intercept,-0.0077
+n,571.0

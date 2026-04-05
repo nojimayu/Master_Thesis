@@ -1,0 +1,12 @@
+kennzahl,wert
+Tukey HG1-HG2 reject,True
+Tukey HG1-HG3 reject,True
+Tukey HG2-HG3 reject,True
+Tukey HG1-HG2 cohen_d,1.119
+Tukey HG2-HG3 cohen_d,0.626
+r_sij_Ej,0.9847
+r2_sij_Ej_pct,97.0
+Terzil_T1_delta_bfs,3.66
+Terzil_T3_delta_bfs,6.68
+Terzil_welch_p,0.3523
+Terzil_cohen_d,0.183
