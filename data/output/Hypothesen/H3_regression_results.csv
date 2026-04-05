@@ -1,0 +1,4 @@
+Modell,N,R²,Adj. R²,β E_j,p E_j
+M1: Bivariat,148,0.0292,0.0225,9.4819,0.0376
+M2: + Hauptgruppe,148,0.0373,0.0173,7.1244,0.1367
+M_robust: inkl. Ausreisser,156,0.0092,-0.0104,6.3416,0.2836
