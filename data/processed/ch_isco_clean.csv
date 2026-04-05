@@ -1,0 +1,272 @@
+ch_isco_4digit,ch_isco_label,main_group,label_clean
+1000,"Führungskräfte, onA",1,fuehrungskraefte ona
+1100,"Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften, onA",1,geschaeftsfuehrer vorstaende leitende verwaltungsbedienstete und angehoerige gesetzgebender koerperschaften ona
+1110,"Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete, onA",1,angehoerige gesetzgebender koerperschaften und leitende verwaltungsbedienstete ona
+1111,Angehörige gesetzgebender Körperschaften,1,angehoerige gesetzgebender koerperschaften
+1112,Leitende Verwaltungsbedienstete,1,leitende verwaltungsbedienstete
+1113,Traditionelle Dorf- und Stammeshäuptlinge,1,traditionelle dorf und stammeshaeuptlinge
+1114,Leitende Bedienstete von Interessenorganisationen,1,leitende bedienstete von interessenorganisationen
+1120,Geschäftsführer und Vorstände,1,geschaeftsfuehrer und vorstaende
+1200,"Führungskräfte im kaufmännischen Bereich, onA",1,fuehrungskraefte im kaufmaennischen bereich ona
+1210,"Führungskräfte in der betrieblichen Administration und in unternehmensbezogenen Dienstleistungen, onA",1,fuehrungskraefte in der betrieblichen administration und in unternehmensbezogenen dienstleistungen ona
+1211,Führungskräfte im Bereich Finanzen,1,fuehrungskraefte im bereich finanzen
+1212,Führungskräfte im Personalwesen,1,fuehrungskraefte im personalwesen
+1213,Führungskräfte in Unternehmenspolitik und -planung,1,fuehrungskraefte in unternehmenspolitik und planung
+1219,"Führungskräfte in der betrieblichen Administration und in unternehmensbezogenen Dienstleistungen, anderweitig nicht genannt",1,fuehrungskraefte in der betrieblichen administration und in unternehmensbezogenen dienstleistungen anderweitig nicht genannt
+1220,"Führungskräfte in Vertrieb, Marketing und Entwicklung, onA",1,fuehrungskraefte in vertrieb marketing und entwicklung ona
+1221,Führungskräfte in Vertrieb und Marketing,1,fuehrungskraefte in vertrieb und marketing
+1222,Führungskräfte in Werbung und Öffentlichkeitsarbeit,1,fuehrungskraefte in werbung und oeffentlichkeitsarbeit
+1223,Führungskräfte in Forschung und Entwicklung,1,fuehrungskraefte in forschung und entwicklung
+1300,"Führungskräfte in der Produktion und bei spezialisierten Dienstleistungen, onA",1,fuehrungskraefte in der produktion und bei spezialisierten dienstleistungen ona
+1310,"Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei, onA",1,fuehrungskraefte in der produktion in land und forstwirtschaft und fischerei ona
+1311,Führungskräfte in der Produktion in Land- und Forstwirtschaft,1,fuehrungskraefte in der produktion in land und forstwirtschaft
+1312,Führungskräfte in der Produktion in Aquakultur und Fischerei,1,fuehrungskraefte in der produktion in aquakultur und fischerei
+1320,"Führungskräfte in der Produktion von Waren, im Bergbau und im Bau sowie in der Logistik, onA",1,fuehrungskraefte in der produktion von waren im bergbau und im bau sowie in der logistik ona
+1321,Führungskräfte in der Produktion von Waren,1,fuehrungskraefte in der produktion von waren
+1322,Führungskräfte in der Produktion im Bergbau,1,fuehrungskraefte in der produktion im bergbau
+1323,Führungskräfte in der Produktion im Bau,1,fuehrungskraefte in der produktion im bau
+1324,"Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen",1,fuehrungskraefte in der beschaffung logistik und in verwandten bereichen
+1330,Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie,1,fuehrungskraefte in der erbringung von dienstleistungen im bereich informations und kommunikationstechnologie
+1340,"Führungskräfte in der Erbringung von spezialisierten Dienstleistungen, onA",1,fuehrungskraefte in der erbringung von spezialisierten dienstleistungen ona
+1341,Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung,1,fuehrungskraefte in der erbringung von dienstleistungen der kinderbetreuung
+1342,Führungskräfte in der Gesundheitsversorgung,1,fuehrungskraefte in der gesundheitsversorgung
+1343,Führungskräfte in der Erbringung von Dienstleistungen für Menschen im Alter,1,fuehrungskraefte in der erbringung von dienstleistungen fuer menschen im alter
+1344,Führungskräfte in der Erbringung von Dienstleistungen der sozialen Institutionen,1,fuehrungskraefte in der erbringung von dienstleistungen der sozialen institutionen
+1345,Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens,1,fuehrungskraefte in der erbringung von dienstleistungen des bildungswesens
+1346,Führungskräfte in der Erbringung von Finanz- und Versicherungsdienstleistungen,1,fuehrungskraefte in der erbringung von finanz und versicherungsdienstleistungen
+1349,"Führungskräfte in der Erbringung von spezialisierten Dienstleistungen, anderweitig nicht genannt",1,fuehrungskraefte in der erbringung von spezialisierten dienstleistungen anderweitig nicht genannt
+1400,"Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen, onA",1,fuehrungskraefte in hotels und restaurants im handel und in der erbringung sonstiger dienstleistungen ona
+1410,"Führungskräfte in Hotels und Restaurants, onA",1,fuehrungskraefte in hotels und restaurants ona
+1411,Führungskräfte in Hotels,1,fuehrungskraefte in hotels
+1412,Führungskräfte in Restaurants,1,fuehrungskraefte in restaurants
+1420,Führungskräfte in Gross- und Einzelhandel,1,fuehrungskraefte in gross und einzelhandel
+1430,"Führungskräfte in der Erbringung sonstiger Dienstleistungen, onA",1,fuehrungskraefte in der erbringung sonstiger dienstleistungen ona
+1431,"Führungskräfte in der Erbringung von Dienstleistungen im Bereich Sport, Erholung und Kultur",1,fuehrungskraefte in der erbringung von dienstleistungen im bereich sport erholung und kultur
+1439,"Führungskräfte in der Erbringung von Dienstleistungen, anderweitig nicht genannt",1,fuehrungskraefte in der erbringung von dienstleistungen anderweitig nicht genannt
+2000,"Intellektuelle und wissenschaftliche Berufe, onA",2,intellektuelle und wissenschaftliche berufe ona
+2100,"Naturwissenschaftler, Mathematiker und Ingenieure, onA",2,naturwissenschaftler mathematiker und ingenieure ona
+2110,"Physiker, Chemiker, Geologen und verwandte Berufe, onA",2,physiker chemiker geologen und verwandte berufe ona
+2111,Physiker und Astronomen,2,physiker und astronomen
+2112,Meteorologen,2,meteorologen
+2113,Chemiker,2,chemiker
+2114,Geologen und Geophysiker,2,geologen und geophysiker
+2120,"Mathematiker, Aktuare und Statistiker",2,mathematiker aktuare und statistiker
+2130,"Biowissenschaftler, onA",2,biowissenschaftler ona
+2131,"Biologen, Botaniker, Zoologen und verwandte Berufe",2,biologen botaniker zoologen und verwandte berufe
+2132,"Agrar-, Forst- und Fischereiwissenschaftler und -berater",2,agrar forst und fischereiwissenschaftler und berater
+2133,Umweltwissenschaftler,2,umweltwissenschaftler
+2140,"Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation), onA",2,ingenieurwissenschaftler ohne elektrotechnik elektronik und telekommunikation ona
+2141,Prozess- und Produktionsingenieure,2,prozess und produktionsingenieure
+2142,Bauingenieure,2,bauingenieure
+2143,Umweltschutzingenieure,2,umweltschutzingenieure
+2144,"Maschinenbau- , Mechatronik- und Systemtechnikingenieure",2,maschinenbau mechatronik und systemtechnikingenieure
+2145,Chemieingenieure,2,chemieingenieure
+2146,"Bergbauingenieure, Metallurgen und verwandte Berufe",2,bergbauingenieure metallurgen und verwandte berufe
+2149,"Ingenieure, anderweitig nicht genannt",2,ingenieure anderweitig nicht genannt
+2150,"Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik, onA",2,ingenieure in den bereichen elektrotechnik elektronik und telekommunikationstechnik ona
+2151,Ingenieure im Bereich Elektrotechnik,2,ingenieure im bereich elektrotechnik
+2152,Ingenieure im Bereich Elektronik,2,ingenieure im bereich elektronik
+2153,Ingenieure im Bereich Telekommunikationstechnik,2,ingenieure im bereich telekommunikationstechnik
+2160,"Architekten, Raum-, Stadt- und Verkehrsplaner, Vermessungsingenieure und Designer, onA",2,architekten raum stadt und verkehrsplaner vermessungsingenieure und designer ona
+2161,Architekten,2,architekten
+2162,Landschaftsarchitekten,2,landschaftsarchitekten
+2163,Produkt- und Textildesigner,2,produkt und textildesigner
+2164,"Raum-, Stadt- und Verkehrsplaner",2,raum stadt und verkehrsplaner
+2165,Kartografen und Vermessungsingenieure,2,kartografen und vermessungsingenieure
+2166,Grafik- und Multimediadesigner,2,grafik und multimediadesigner
+2200,"Spezialisten in Gesundheitsberufen, onA",2,spezialisten in gesundheitsberufen ona
+2210,"Ärzte, onA",2,aerzte ona
+2211,Allgemeinärzte,2,allgemeinaerzte
+2212,Fachärzte,2,fachaerzte
+2220,"Pflegedienstleitern, Pflegefachkräfte und Geburtshilfespezialisten, onA",2,pflegedienstleitern pflegefachkraefte und geburtshilfespezialisten ona
+2221,Pflegedienstleiter und Pflegefachkräfte,2,pflegedienstleiter und pflegefachkraefte
+2222,Geburtshilfespezialisten,2,geburtshilfespezialisten
+2230,Spezialisten der traditionellen und komplementären Medizin,2,spezialisten der traditionellen und komplementaeren medizin
+2240,Feldscher und vergleichbare paramedizinische Praktiker,2,feldscher und vergleichbare paramedizinische praktiker
+2250,Tierärzte,2,tieraerzte
+2260,"Sonstige Spezialisten in Gesundheitsberufen, onA",2,sonstige spezialisten in gesundheitsberufen ona
+2261,Zahnärzte,2,zahnaerzte
+2262,Apotheker,2,apotheker
+2263,Spezialisten in den Bereichen Umwelt- und Arbeitsmedizin sowie Hygiene,2,spezialisten in den bereichen umwelt und arbeitsmedizin sowie hygiene
+2264,Physiotherapeuten,2,physiotherapeuten
+2265,Diätologen und Ernährungsberater,2,diaetologen und ernaehrungsberater
+2266,Audiologen und Sprachtherapeuten,2,audiologen und sprachtherapeuten
+2267,Optometristen und Orthoptisten,2,optometristen und orthoptisten
+2269,"Spezialisten in Gesundheitsberufen, anderweitig nicht genannt",2,spezialisten in gesundheitsberufen anderweitig nicht genannt
+2300,"Lehrkräfte, onA",2,lehrkraefte ona
+2310,Universitäts- und Hochschullehrer,2,universitaets und hochschullehrer
+2320,Lehrkräfte im Bereich Berufsbildung,2,lehrkraefte im bereich berufsbildung
+2330,Lehrkräfte im Sekundarbereich,2,lehrkraefte im sekundarbereich
+2340,"Lehrkräfte im Primar- und Vorschulbereich, onA",2,lehrkraefte im primar und vorschulbereich ona
+2341,Lehrkräfte im Primarbereich,2,lehrkraefte im primarbereich
+2342,Lehrkräfte und Erzieher im Vorschulbereich,2,lehrkraefte und erzieher im vorschulbereich
+2350,"Sonstige Lehrkräfte, onA",2,sonstige lehrkraefte ona
+2351,Pädagogik- und Didaktikspezialisten,2,paedagogik und didaktikspezialisten
+2352,Lehrkräfte im Bereich Sonderpädagogik,2,lehrkraefte im bereich sonderpaedagogik
+2353,Sprachlehrer,2,sprachlehrer
+2354,Musiklehrer,2,musiklehrer
+2355,Kunstlehrer,2,kunstlehrer
+2356,Ausbilder im Bereich Informationstechnologie,2,ausbilder im bereich informationstechnologie
+2359,"Lehrkräfte, anderweitig nicht genannt",2,lehrkraefte anderweitig nicht genannt
+2400,"Betriebswirte und vergleichbare Spezialisten, onA",2,betriebswirte und vergleichbare spezialisten ona
+2410,"Spezialisten im Bereich Finanzen, onA",2,spezialisten im bereich finanzen ona
+2411,"Wirtschaftsprüfer, Steuerberater und verwandte Berufe",2,wirtschaftspruefer steuerberater und verwandte berufe
+2412,Finanz- und Anlageberater,2,finanz und anlageberater
+2413,Finanzanalysten,2,finanzanalysten
+2420,"Spezialisten der betrieblichen Verwaltung, onA",2,spezialisten der betrieblichen verwaltung ona
+2421,Spezialisten im Bereich Management- und Organisationsanalyse,2,spezialisten im bereich management und organisationsanalyse
+2422,Spezialisten in der strategischen Planung in Politik und Wirtschaft,2,spezialisten in der strategischen planung in politik und wirtschaft
+2423,Berufsberater und -analytiker und vergleichbare Spezialisten der Personalwesen,2,berufsberater und analytiker und vergleichbare spezialisten der personalwesen
+2424,Fachkräfte in Personalschulung und -entwicklung,2,fachkraefte in personalschulung und entwicklung
+2430,"Spezialisten in Vertrieb, Marketing und Öffentlichkeitsarbeit, onA",2,spezialisten in vertrieb marketing und oeffentlichkeitsarbeit ona
+2431,Fachkräfte in Marketing und Werbung,2,fachkraefte in marketing und werbung
+2432,Fachkräfte in der Öffentlichkeitsarbeit,2,fachkraefte in der oeffentlichkeitsarbeit
+2433,Technische Verkaufsfachkräfte (ohne Informations- und Kommunikationstechnologie),2,technische verkaufsfachkraefte ohne informations und kommunikationstechnologie
+2434,Technische Verkaufsfachkräfte in der Informations- und Kommunikationstechnologie,2,technische verkaufsfachkraefte in der informations und kommunikationstechnologie
+2500,"Spezialisten in der Informations- und Kommunikationstechnologie, onA",2,spezialisten in der informations und kommunikationstechnologie ona
+2510,"Entwickler und Analytiker von Software und Anwendungen, onA",2,entwickler und analytiker von software und anwendungen ona
+2511,Systemanalytiker,2,systemanalytiker
+2512,Softwareentwickler,2,softwareentwickler
+2513,Mediamatiker,2,mediamatiker
+2514,Anwendungsprogrammierer,2,anwendungsprogrammierer
+2519,"Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht genannt",2,entwickler und analytiker von software und anwendungen anderweitig nicht genannt
+2520,"Fachkräfte für Datenbanken und Netzwerke, onA",2,fachkraefte fuer datenbanken und netzwerke ona
+2521,Datenbankentwickler und -administratoren,2,datenbankentwickler und administratoren
+2522,Systemadministratoren,2,systemadministratoren
+2523,Fachkräfte für Computernetzwerke,2,fachkraefte fuer computernetzwerke
+2529,"Fachkräfte für Datenbanken und Netzwerke, anderweitig nicht genannt.",2,fachkraefte fuer datenbanken und netzwerke anderweitig nicht genannt
+2600,"Juristen, Sozialwissenschaftler und Kulturberufe, onA",2,juristen sozialwissenschaftler und kulturberufe ona
+2610,"Juristen, onA",2,juristen ona
+2611,Anwälte,2,anwaelte
+2612,Richter,2,richter
+2619,"Juristen, anderweitig nicht genannt",2,juristen anderweitig nicht genannt
+2620,"Archiv-, Bibliotheks- und Museumswissenschaftler, onA",2,archiv bibliotheks und museumswissenschaftler ona
+2621,Archiv- und Museumswissenschaftler,2,archiv und museumswissenschaftler
+2622,Bibliothekswissenschaftler und verwandte Informationswissenschaftler,2,bibliothekswissenschaftler und verwandte informationswissenschaftler
+2630,"Sozialwissenschaftler, Geistliche und Seelsorger, onA",2,sozialwissenschaftler geistliche und seelsorger ona
+2631,Volkswirtschaftler,2,volkswirtschaftler
+2632,"Soziologen, Anthropologen und verwandte Wissenschaftler",2,soziologen anthropologen und verwandte wissenschaftler
+2633,"Philosophen, Historiker und Politologen",2,philosophen historiker und politologen
+2634,Psychologen,2,psychologen
+2635,Sozialarbeiter,2,sozialarbeiter
+2636,Geistliche Seelsorger,2,geistliche seelsorger
+2640,"Autoren, Journalisten und Linguisten, onA",2,autoren journalisten und linguisten ona
+2641,Autoren und verwandte schriftstellerische Berufe,2,autoren und verwandte schriftstellerische berufe
+2642,Journalisten,2,journalisten
+2643,"Übersetzer, Dolmetscher und andere Linguisten",2,uebersetzer dolmetscher und andere linguisten
+2650,"Bildende und darstellende Künstler, onA",2,bildende und darstellende kuenstler ona
+2651,Bildende Künstler,2,bildende kuenstler
+2652,"Musiker, Sänger und Komponisten",2,musiker saenger und komponisten
+2653,Tänzer und Choreografen,2,taenzer und choreografen
+2654,Regisseure und Produzenten im Film- und Bühnenbereich sowie in verwandten Bereichen,2,regisseure und produzenten im film und buehnenbereich sowie in verwandten bereichen
+2655,Schauspieler,2,schauspieler
+2656,"Sprecher im Rundfunk, Fernsehen und sonstigen Medien",2,sprecher im rundfunk fernsehen und sonstigen medien
+2659,"Bildende und darstellende Künstler, anderweitig nicht genannt",2,bildende und darstellende kuenstler anderweitig nicht genannt
+3000,"Techniker und gleichrangige nichttechnische Berufe, onA",3,techniker und gleichrangige nichttechnische berufe ona
+3100,"Ingenieurtechnische und vergleichbare Fachkräfte, onA",3,ingenieurtechnische und vergleichbare fachkraefte ona
+3110,"Material- und ingenieurtechnische Fachkräfte, onA",3,material und ingenieurtechnische fachkraefte ona
+3111,Chemo- und Physikotechniker,3,chemo und physikotechniker
+3112,Bauführer und Bautechniker,3,baufuehrer und bautechniker
+3113,Elektrotechniker,3,elektrotechniker
+3114,Techniker im Bereich Elektronik,3,techniker im bereich elektronik
+3115,"Maschinenbautechniker, Techniker im Bereich Systemtechnik, Automation und Unternehmensprozesse",3,maschinenbautechniker techniker im bereich systemtechnik automation und unternehmensprozesse
+3116,Chemiebetriebs- und Verfahrenstechniker,3,chemiebetriebs und verfahrenstechniker
+3117,Bergbau- und Hüttentechniker,3,bergbau und huettentechniker
+3118,Technische Zeichner,3,technische zeichner
+3119,"Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt",3,material und ingenieurtechnische fachkraefte anderweitig nicht genannt
+3120,"Produktionsleiter im Bergbau, bei der Herstellung von Waren, Polier und Vorarbeiter im Bau, onA",3,produktionsleiter im bergbau bei der herstellung von waren polier und vorarbeiter im bau ona
+3121,Produktionsleiter im Bergbau,3,produktionsleiter im bergbau
+3122,Produktionsleiter bei der Herstellung von Waren,3,produktionsleiter bei der herstellung von waren
+3123,Poliere und Vorarbeiter,3,poliere und vorarbeiter
+3130,"Techniker in der Prozesssteuerung, onA",3,techniker in der prozesssteuerung ona
+3131,Steuerer von Energieerzeugungsanlagen,3,steuerer von energieerzeugungsanlagen
+3132,Steuerer von Verbrennungs- und Wasserbehandlungsanlagen,3,steuerer von verbrennungs und wasserbehandlungsanlagen
+3133,Steuerer von chemischen Verfahrensanlagen,3,steuerer von chemischen verfahrensanlagen
+3134,Steuerer von Erdöl- und Erdgasraffinationsanlagen,3,steuerer von erdoel und erdgasraffinationsanlagen
+3135,Steuerer von Verfahren in der Metallerzeugung,3,steuerer von verfahren in der metallerzeugung
+3139,"Techniker in der Prozesssteuerung, anderweitig nicht genannt",3,techniker in der prozesssteuerung anderweitig nicht genannt
+3140,"Biotechniker und verwandte technische Berufe, onA",3,biotechniker und verwandte technische berufe ona
+3141,Biotechniker (ohne medizinische Fachberufe),3,biotechniker ohne medizinische fachberufe
+3142,Agrartechniker,3,agrartechniker
+3143,Forsttechniker,3,forsttechniker
+3150,"Schiffsführer, Flugzeugpiloten und verwandte Berufe, onA",3,schiffsfuehrer flugzeugpiloten und verwandte berufe ona
+3151,Technische Schiffsoffiziere,3,technische schiffsoffiziere
+3152,"Schiffsführer, nautische Schiffsoffiziere und Schiffslotsen",3,schiffsfuehrer nautische schiffsoffiziere und schiffslotsen
+3153,Flugzeugpiloten und verwandte Berufe,3,flugzeugpiloten und verwandte berufe
+3154,Flugverkehrslotsen,3,flugverkehrslotsen
+3155,Flugsicherungstechniker,3,flugsicherungstechniker
+3200,"Assistenzberufe im Gesundheitswesen, onA",3,assistenzberufe im gesundheitswesen ona
+3210,"Medizinische und pharmazeutische Fachberufe, onA",3,medizinische und pharmazeutische fachberufe ona
+3211,Medizintechniker im Bereich bildgebende Verfahren und Therapiegeräte,3,medizintechniker im bereich bildgebende verfahren und therapiegeraete
+3212,Medizintechniker im Bereich Labor und Pathologie,3,medizintechniker im bereich labor und pathologie
+3213,Pharmazeutische Techniker und Assistenten,3,pharmazeutische techniker und assistenten
+3214,Medizinische und zahnmedizinische Prothetiktechniker,3,medizinische und zahnmedizinische prothetiktechniker
+3220,"Fachkräfte Geburtshilfe, Gesundheit und Pflege (mittlere Stufe), onA",3,fachkraefte geburtshilfe gesundheit und pflege mittlere stufe ona
+3221,Fachkräfte Gesundheit und Pflege (mittlere Stufe),3,fachkraefte gesundheit und pflege mittlere stufe
+3222,Fachkräfte Geburtshilfe (mittlere Stufe),3,fachkraefte geburtshilfe mittlere stufe
+3230,Fachkräfte in traditioneller und komplementärer Medizin,3,fachkraefte in traditioneller und komplementaerer medizin
+3240,Veterinärmedizinische Fachkräfte und Assistenten,3,veterinaermedizinische fachkraefte und assistenten
+3250,"Sonstige Assistenzberufe im Gesundheitswesen, onA",3,sonstige assistenzberufe im gesundheitswesen ona
+3251,Zahnmedizinische Assistenten und Dentalhygieniker,3,zahnmedizinische assistenten und dentalhygieniker
+3252,Fachkräfte im Bereich medizinische Dokumentation und Information,3,fachkraefte im bereich medizinische dokumentation und information
+3253,Fachkräfte in der öffentlichen Gesundheitsfürsorge,3,fachkraefte in der oeffentlichen gesundheitsfuersorge
+3254,Augenoptiker,3,augenoptiker
+3255,Physiotherapeutische Techniker und Assistenten,3,physiotherapeutische techniker und assistenten
+3256,Medizinische Assistenten,3,medizinische assistenten
+3257,Kontrolleure und Beauftragte in den Bereichen Umwelt- und Arbeitsmedizin sowie verwandte Berufe,3,kontrolleure und beauftragte in den bereichen umwelt und arbeitsmedizin sowie verwandte berufe
+3258,Rettungsdienstpersonal,3,rettungsdienstpersonal
+3259,"Assistenzberufe im Gesundheitswesen, anderweitig nicht genannt",3,assistenzberufe im gesundheitswesen anderweitig nicht genannt
+3300,"Betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte, onA",3,betriebswirtschaftliche und kaufmaennische fachkraefte und verwaltungsfachkraefte ona
+3310,"Fachkräfte im Bereich Finanzen und mathematische Verfahren, onA",3,fachkraefte im bereich finanzen und mathematische verfahren ona
+3311,"Wertpapierhändler, -makler und Finanzmakler",3,wertpapierhaendler makler und finanzmakler
+3312,Fachkräfte im Bereich Kredit und Darlehen,3,fachkraefte im bereich kredit und darlehen
+3313,Fachkräfte im Rechnungswesen,3,fachkraefte im rechnungswesen
+3314,"Statistische, mathematische und verwandte Fachkräfte",3,statistische mathematische und verwandte fachkraefte
+3315,Schätzer und Schadensgutachter,3,schaetzer und schadensgutachter
+3320,"Verkaufsfachkräfte, Einkäufer und Handelsmakler, onA",3,verkaufsfachkraefte einkaeufer und handelsmakler ona
+3321,Versicherungsvertreter,3,versicherungsvertreter
+3322,Verkaufsfachkräfte,3,verkaufsfachkraefte
+3323,Einkäufer,3,einkaeufer
+3324,Handelsmakler,3,handelsmakler
+3330,"Fachkräfte für unternehmensbezogene Dienstleistungen, onA",3,fachkraefte fuer unternehmensbezogene dienstleistungen ona
+3331,Fachkräfte für Abrechnungs- und Speditionsdienstleistungen,3,fachkraefte fuer abrechnungs und speditionsdienstleistungen
+3332,Konferenz- und Veranstaltungsplaner,3,konferenz und veranstaltungsplaner
+3333,Arbeits- und Personalvermittler,3,arbeits und personalvermittler
+3334,Immobilienmakler und -verwalter,3,immobilienmakler und verwalter
+3339,"Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt",3,fachkraefte fuer unternehmensbezogene dienstleistungen anderweitig nicht genannt
+3340,"Sekretariatsfachkräfte, onA",3,sekretariatsfachkraefte ona
+3341,Sekretariatsleiter,3,sekretariatsleiter
+3342,Sekretariatsfachkräfte im juristischen Bereich,3,sekretariatsfachkraefte im juristischen bereich
+3343,Sekretariatsfachkräfte in Verwaltung und Geschäftsleitung,3,sekretariatsfachkraefte in verwaltung und geschaeftsleitung
+3344,Sekretariatsfachkräfte im Gesundheitswesen,3,sekretariatsfachkraefte im gesundheitswesen
+3350,"Fachkräfte in der öffentlichen Verwaltung, onA",3,fachkraefte in der oeffentlichen verwaltung ona
+3351,Fachkräfte im Zolldienst und Grenzschutz,3,fachkraefte im zolldienst und grenzschutz
+3352,Fachkräfte in der Steuerverwaltung,3,fachkraefte in der steuerverwaltung
+3353,Fachkräfte in Sozialverwaltung und -versicherung,3,fachkraefte in sozialverwaltung und versicherung
+3354,"Fachkräfte bei staatlichen Pass-, Lizenz- und Genehmigungsstellen",3,fachkraefte bei staatlichen pass lizenz und genehmigungsstellen
+3355,Polizeikommissare und Kriminalbeamte,3,polizeikommissare und kriminalbeamte
+3359,"Fachkräfte in der öffentlichen Verwaltung, anderweitig nicht genannt",3,fachkraefte in der oeffentlichen verwaltung anderweitig nicht genannt
+3400,"Juristische, soziale, kulturelle und verwandte Fachkräfte, onA",3,juristische soziale kulturelle und verwandte fachkraefte ona
+3410,"Juristische, soziale und religiöse Berufe, onA",3,juristische soziale und religioese berufe ona
+3411,Fachkräfte für Rechts- und verwandte Angelegenheiten,3,fachkraefte fuer rechts und verwandte angelegenheiten
+3412,Soziale Fachkräfte,3,soziale fachkraefte
+3413,Ordensbrüder/-schwestern und Seelsorgehelfer,3,ordensbrueder schwestern und seelsorgehelfer
+3420,"Fachkräfte im Bereich Sport und Fitness, onA",3,fachkraefte im bereich sport und fitness ona
+3421,Athleten und Berufssportler,3,athleten und berufssportler
+3422,"Sportlehrer, Sporttrainer und Sportfunktionäre",3,sportlehrer sporttrainer und sportfunktionaere
+3423,Trainer und Betreuer im Bereich Fitness und Erholung,3,trainer und betreuer im bereich fitness und erholung
+3430,"Fachkräfte in Gestaltung und Kultur sowie Küchenchefs, onA",3,fachkraefte in gestaltung und kultur sowie kuechenchefs ona
+3431,Fotografen,3,fotografen
+3432,Raumgestalter und Dekorateure,3,raumgestalter und dekorateure
+3433,"Fachkräfte in Kunstgalerien, Museen und Bibliotheken",3,fachkraefte in kunstgalerien museen und bibliotheken
+3434,"Küchenchefs, stv. Küchenchefs und Souschefs",3,kuechenchefs stv kuechenchefs und souschefs
+3435,Sonstige Fachkräfte in Gestaltung und Kultur,3,sonstige fachkraefte in gestaltung und kultur
+3500,"Informations- und Kommunikationstechniker, onA",3,informations und kommunikationstechniker ona
+3510,"Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwenderbetreuung, onA",3,techniker fuer den betrieb von informations und kommunikationstechnologie und fuer die anwenderbetreuung ona
+3511,Techniker für den Betrieb von Informations- und Kommunikationstechnologie,3,techniker fuer den betrieb von informations und kommunikationstechnologie
+3512,Techniker für die Anwenderbetreuung in der Informations- und Kommunikationstechnologie,3,techniker fuer die anwenderbetreuung in der informations und kommunikationstechnologie
+3513,Techniker für Computernetzwerke und -systeme,3,techniker fuer computernetzwerke und systeme
+3514,Webmaster,3,webmaster
+3520,"Telekommunikations- und Rundfunktechniker, onA",3,telekommunikations und rundfunktechniker ona
+3521,Techniker für Rundfunk und audiovisuelle Medien,3,techniker fuer rundfunk und audiovisuelle medien
+3522,Telekommunikationstechniker,3,telekommunikationstechniker
