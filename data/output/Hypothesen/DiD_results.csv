@@ -1,0 +1,8 @@
+metric,value
+n_sample,139.0
+delta_bfs_pre_mean,10.6544
+delta_bfs_post_mean,3.3061
+did_mean,-7.3484
+beta_Ej_did,-7.768
+p_Ej_did,0.3891
+r2_did,0.0053
