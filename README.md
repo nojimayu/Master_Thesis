@@ -138,7 +138,7 @@ Getestet mit **Python 3.12.1**.
 |---|---|---|
 | **O\*NET 30.2** | Öffentlich | [onetcenter.org](https://www.onetcenter.org/database.html) → *Complete Database* |
 | **ESCO→O\*NET Crosswalk** | Öffentlich | [onetcenter.org/crosswalks](https://www.onetcenter.org/crosswalks.html) |
-| **CH_ISCO19.xlsx** | BFS | BFS Strukturerhebung, Einzeljahres-Sheets 2019–2024 |[bfs.admin.ch] (https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erwerbstaetigkeit-arbeitszeit/erwerbsbevoelkerung/auslaendische-arbeitskraefte.assetdetail.36346663.html)
+| **CH_ISCO19.xlsx** | Öffentlich | BFS Strukturerhebung – Erwerbstätige nach Berufshauptgruppen CH-ISCO-19 ([Asset 36346663](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/erwerbstaetigkeit-arbeitszeit/erwerbsbevoelkerung/auslaendische-arbeitskraefte.assetdetail.36346663.html)) |
 
 Die O\*NET-Rohdaten sind öffentlich zugänglich und können direkt vom
 O\*NET Resource Center des U.S. Department of Labor heruntergeladen
